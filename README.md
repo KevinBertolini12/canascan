@@ -1,3 +1,9 @@
+<!-- NAVEGAÇÃO DE IDIOMAS -->
+<div align="right">
+  <a href="https://github.com/KevinBertolini12/canascan/blob/main/README.md"><img src="https://img.shields.io/badge/Português-2E6EEF?style=for-the-badge&logo=github&logoColor=white" alt="Versão em Português"></a>
+  <a href="https://github.com/KevinBertolini12/canascan/blob/main/README_EN.md"><img src="https://img.shields.io/badge/English-1f2428?style=for-the-badge&logo=github&logoColor=white" alt="English Version"></a>
+</div>
+
 # 🛸 CanaScan — Análise Geoespacial de Plantio de Cana-de-Açúcar
 
 > Sistema de visão computacional e inteligência artificial para processamento de ortomosaicos de drone, detecção automatizada de falhas de plantio e geração de relatórios de apoio à decisão agrícola.
@@ -30,7 +36,7 @@ O **CanaScan** é uma ferramenta de precisão agrícola desenvolvida para analis
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/KevinBertolini12/canascan.git
+git clone [https://github.com/KevinBertolini12/canascan.git](https://github.com/KevinBertolini12/canascan.git)
 
 # Entrar na pasta do projeto
 cd canascan
@@ -40,7 +46,3 @@ pip install -r requirements.txt
 
 # Executar a aplicação
 python iniciar.py
-```
-
-👤 Autor:
-Desenvolvido por Kevin Bertolini
