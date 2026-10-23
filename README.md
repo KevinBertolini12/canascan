@@ -32,6 +32,13 @@ O **CanaScan** é uma ferramenta de precisão agrícola desenvolvida para analis
 
 ---
 
+## 🖥️ Demonstração do Sistema
+
+![Interface do Sistema](docs/screenshots/interface.png)
+![Detecção de Falhas de Plantio](docs/screenshots/deteccao.png)
+
+---
+
 ## 💻 Como Executar o Projeto
 
 ```bash
@@ -46,3 +53,9 @@ pip install -r requirements.txt
 
 # Executar a aplicação
 python iniciar.py
+```
+
+👤 Autor:
+Desenvolvido por Kevin Bertolini
+
+
