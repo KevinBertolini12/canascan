@@ -42,7 +42,12 @@ python iniciar.py
 
 ---
 
+---
+
 ## 👤 Autor
 
-Desenvolvido por **Kevin Bertolini**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-bertolini-531a332a0)
+Desenvolvido por **Kevin Bertolini**
+
+<a href="https://www.linkedin.com/in/kevin-bertolini-531a332a0" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
