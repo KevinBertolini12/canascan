@@ -1,0 +1,9 @@
+numpy
+opencv-python-headless
+scipy
+matplotlib
+rasterio
+geopandas
+shapely
+PySide6
+Pillow

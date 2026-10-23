@@ -1,0 +1,35 @@
+====================================================
+CANASCAN — RELATÓRIO DE FALHAS DE PLANTIO
+====================================================
+
+Linhas de plantio detectadas ..... 7382
+Comprimento total de linhas ...... 115,177.3 m
+Falha total ...................... 51,777.0 m
+Número de falhas ................. 40317
+ÍNDICE DE FALHAS (Stolf) ......... 44.95 %
+
+Por talhão:
+    talhão  linhas  plantio(m)  falha(m)       %
+         1     434      6208.7    1480.3  23.84%
+         2    1737     28099.4    6665.7  23.72%
+         3    4155     66999.9   33904.1  50.60%
+         4    1056     13869.3    9726.9  70.13%
+
+Classificação das falhas por comprimento:
+  0,5–1 m  18186 falhas     13665.3 m
+  1–2 m    16982 falhas     23210.1 m
+  2–5 m     4879 falhas     13228.4 m
+  > 5 m      270 falhas      1673.2 m
+
+Top 10 linhas mais falhadas:
+  linha  talhão   compr(m)   falha(m)       %
+   3613       3       30.8       31.6  102.6%
+   2251       3       30.2       29.7   98.3%
+   2664       3       29.4       29.7  101.0%
+   2734       3       30.2       29.6   98.0%
+   6865       4       28.6       29.5  103.1%
+   2291       3       28.5       29.4  103.2%
+   3634       3       31.2       29.4   94.2%
+   2431       3       31.2       29.3   93.9%
+   3339       3       27.2       28.7  105.5%
+   2270       3       28.7       28.6   99.7%
