@@ -1,19 +1,19 @@
 # 🛸 CanaScan — Análise Geoespacial de Plantio de Cana-de-Açúcar
 
-> Sistema de visão computacional e inteligência artificial para processamento de ortomosaicos de drone, deteção automatizada de falhas de plantio e geração de relatórios de apoio à decisão agrícola.
+> Sistema de visão computacional e inteligência artificial para processamento de ortomosaicos de drone, detecção automatizada de falhas de plantio e geração de relatórios de apoio à decisão agrícola.
 
 ---
 
 ## 📌 Sobre o Projeto
 
-O **CanaScan** é uma ferramenta de precisão agrícola desenvolvida para analisar ortomosaicos obtidos por drones em lavouras de cana-de-açúcar. Utilizando técnicas de processamento de imagem e modelos de deep learning (U-Net), o sistema identifica linhas de plantio, deteta falhas e gera relatórios detalhados para a gestão no campo.
+O **CanaScan** é uma ferramenta de precisão agrícola desenvolvida para analisar ortomosaicos obtidos por drones em lavouras de cana-de-açúcar. Utilizando técnicas de processamento de imagem e modelos de deep learning (U-Net), o sistema identifica linhas de plantio, detecta falhas e gera relatórios detalhados para a gestão no campo.
 
 ### 🚀 Principais Funcionalidades
 
-- **Deteção de Falhas de Plantio:** Segmentação automática das linhas de cultura e medição das falhas.
+- **Detecção de Falhas de Plantio:** Segmentação automática das linhas de cultura e medição das falhas.
 - **Processamento em Lote:** Capacidade de analisar múltiplos lotes e ortomosaicos industriais de forma contínua.
 - **Relatórios Gerenciais:** Exportação de dados e diagnósticos nos formatos CSV e HTML para tomada de decisão.
-- **Interface Gráfica Integrada:** Interface interativa desenvolvida para facilitar a operação por equipas técnicas.
+- **Interface Gráfica Integrada:** Interface interativa desenvolvida para facilitar a operação por equipes técnicas.
 
 ---
 
@@ -31,6 +31,7 @@ O **CanaScan** é uma ferramenta de precisão agrícola desenvolvida para analis
 ```bash
 # Clonar o repositório
 git clone https://github.com/KevinBertolini12/canascan.git
+
 # Entrar na pasta do projeto
 cd canascan
 
@@ -39,11 +40,3 @@ pip install -r requirements.txt
 
 # Executar a aplicação
 python iniciar.py
-
-## 👤 Autor
-
-Desenvolvido por **Kevin Bertolini**
-
-<a href="https://www.linkedin.com/in/kevin-bertolini-531a332a0" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
