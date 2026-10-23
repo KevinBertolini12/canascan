@@ -32,6 +32,13 @@
 
 ---
 
+## 🖥️ Screenshots
+
+![System Interface](docs/screenshots/interface.png)
+![Planting Gap Detection](docs/screenshots/deteccao.png)
+
+---
+
 ## 💻 How to Run the Project
 
 ```bash
@@ -46,3 +53,8 @@ pip install -r requirements.txt
 
 # Run the application
 python iniciar.py
+```
+
+👤 Author:
+Developed by Kevin Bertolini
+
