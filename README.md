@@ -40,3 +40,7 @@ pip install -r requirements.txt
 
 # Executar a aplicação
 python iniciar.py
+```
+
+👤 Autor:
+Desenvolvido por Kevin Bertolini
